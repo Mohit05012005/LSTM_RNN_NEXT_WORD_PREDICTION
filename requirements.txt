@@ -1,5 +1,6 @@
+python_version == "3.11"
 streamlit
-tensorflow==2.19.0
+tensorflow==2.15.0
+keras==2.15.0
 numpy==2.0.2
-keras==3.10.0
 pickle-mixin
